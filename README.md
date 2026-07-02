@@ -73,7 +73,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/sudharshanpoluru-oss/newcollege">
-        <b>🎓 New College</b>
+        <b>🎓 Portfolio</b>
         <br>
         <sub>HTML · CSS · Portfolio</sub>
       </a>
