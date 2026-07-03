@@ -1,32 +1,37 @@
 <div align="center">
-
-# 🚀 sudharshanpoluru-oss
-
-**Built with passion by [Sudharshan](https://github.com/sudharshanpoluru-oss)**
-
----
-
-### 📝 Description
-This is a dedicated repository for **sudharshanpoluru-oss**. It showcases a collection of work, tasks, or projects developed during my learning journey.
-
-### 🛠️ Tech Stack
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌟 Features
-- ✨ **Clean & Efficient Code:** Optimized for performance and readability.
-- 🎯 **Focused Objectives:** Designed to solve specific problems or complete tasks.
-- 📂 **Structured Architecture:** Easy to navigate and extend.
+  <h1 align="center">👋 Hi, I'm Sudharshan</h1>
+  <p>A passionate full-stack developer dedicated to building efficient, scalable, and user-centric web applications.</p>
+  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 
 ---
 
-### 📬 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudharshanpoluru-oss)
+## 👨‍💻 About Me
+I'm a full-stack developer with a strong focus on building robust solutions for real-world problems, such as hostel management systems and beyond. I love exploring new technologies, optimizing workflows, and writing clean, maintainable code.
 
 ---
 
-*Project maintained by [Sudharshan](https://github.com/sudharshanpoluru-oss). If you find this helpful, feel free to drop a ⭐!*
+## 🛠️ Skills & Technologies
+*   **Languages:** PHP, JavaScript, SQL
+*   **Frontend:** React, HTML5, CSS3, Bootstrap
+*   **Backend:** Express.js, Node.js
+*   **Database:** MySQL
+*   **Tools:** Git, GitHub, Vercel, Railway
 
+---
+
+## 📈 My GitHub Stats
+![Sudharshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudharshanpoluru-oss&show_icons=true&theme=radical)
+
+---
+
+<div align="center">
+  <sub>Check out my repositories and feel free to connect! If you like what you see, please leave a ⭐.</sub>
 </div>
