@@ -77,14 +77,6 @@ I am a Computer Science Engineering student passionate about Software Engineerin
   <img src="https://github-profile-trophy.vercel.app/?username=sudharshanpoluru-oss&theme=radical&no-frame=true" />
 </div>
 
----
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sudharshanpoluru-oss/sudharshanpoluru-oss/output/github-contribution-grid-snake.svg" />
-</div>
-
----
 
 ## ⏳ Developer Journey
 ```mermaid
