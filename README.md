@@ -1,80 +1,111 @@
 <div align="center">
-  <h1>👋 Hello, I'm Sudharshan</h1>
-  <p><strong>Computer Science Engineering Student | Full Stack Developer | Open Source Enthusiast</strong></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sudharshan&fontSize=70&fontColor=ffffff&fontAlignY=40" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&lines=Building+Real+World+Projects;Learning+AI+Every+Day;Open+Source+Contributor;Future+Software+Engineer" alt="Typing Animation" />
+  <h1>👋 Hi, I'm Sudharshan</h1>
+  <p><strong>Computer Science Engineering Student | Full Stack Developer | Open Source Contributor</strong></p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&lines=Full+Stack+Developer;Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies" />
+
+  <br/><br/>
+  <a href="https://github.com/sudharshanpoluru-oss"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sudharshanpoluru"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
 
-## 👨‍💻 About Me
-I am a Computer Science Engineering student passionate about software development and the intersection of AI/ML and full-stack engineering. I thrive on building real-world projects that solve actual problems and am constantly exploring new technologies in cybersecurity and cloud computing. Currently, I am focused on building scalable web applications and contributing to open-source communities. I am actively seeking internship opportunities to apply my skills in professional environments.
+## 👨‍💻 Professional Summary
+I am a Computer Science Engineering student passionate about Software Engineering, AI/ML, and Cybersecurity. I specialize in building scalable web applications and am currently diving deep into Cloud Computing. I thrive on solving real-world problems through code and am actively looking for internship opportunities to contribute and grow in a professional setting.
+
+---
+
+## ℹ️ Quick Info
+| Category | Information |
+| :--- | :--- |
+| 🎓 **Education** | Computer Science Engineering Student |
+| 🚀 **Role** | Full Stack Developer |
+| 📍 **Location** | India |
+| 🎯 **Interests** | AI/ML, Cybersecurity, Cloud Computing |
+| 📚 **Learning** | React, Next.js, AI Agents, Cybersecurity |
+| ✉️ **Contact** | [Email Me](mailto:your-email@example.com) |
+| 🤝 **Open To** | Internships, Open Source, Hackathons |
 
 ---
 
 ## 🛠️ Tech Stack
-
 <div align="center">
-
-### 💻 Programming Languages
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-
-### 🌐 Frontend & Backend
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-
-### 🗄️ Database & Tools
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-
-### 🤖 AI / ML
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,sql,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,postgres,git,github,vscode,postman,docker,linux,figma,sklearn,pandas,numpy,matplotlib" />
 </div>
 
 ---
 
-## 📈 GitHub Metrics
-
+## 🚀 Current Focus
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudharshanpoluru-oss&show_icons=true&theme=radical&hide_border=true" alt="Sudharshan's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshanpoluru-oss&theme=radical&hide_border=true" alt="Sudharshan's Streak" />
+  <table>
+    <tr>
+      <th>Currently Learning</th>
+      <th>Currently Building</th>
+    </tr>
+    <tr>
+      <td>React, Next.js, AI Agents</td>
+      <td>Hostel Management System</td>
+    </tr>
+    <tr>
+      <td>Cybersecurity, Cloud, Docker</td>
+      <td>College & Portfolio Websites</td>
+    </tr>
+  </table>
 </div>
 
+---
+
+## 📂 Featured Projects
+*(Note: Please update links to your actual repository URLs)*
+- **Hostel Management System:** Full-stack management platform for efficiency.
+- **College Website:** Informational platform for educational institutions.
+- **AI/ML Analysis Suite:** Data-driven insights using Scikit-learn.
+- **Portfolio Website:** Professional showcase of my work.
+- **CRUD Application:** Scalable data management interfaces.
+- **Open Source Contributor:** Various contributions to community projects.
+
+---
+
+## 📈 GitHub Analytics
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudharshanpoluru-oss&theme=radical&no-frame=true" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudharshanpoluru-oss&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshanpoluru-oss&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sudharshanpoluru-oss&theme=radical&no-frame=true" />
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sudharshanpoluru-oss/sudharshanpoluru-oss/output/github-contribution-grid-snake.svg" alt="Snake" />
+  <img src="https://raw.githubusercontent.com/sudharshanpoluru-oss/sudharshanpoluru-oss/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
 
-## 📬 Connect With Me
-<div align="center">
-  <a href="https://linkedin.com/in/sudharshanpoluru"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+## ⏳ Developer Journey
+```mermaid
+graph TD
+    A[Started Programming] --> B[Learned Web Development]
+    B --> C[Built Full Stack Projects]
+    C --> D[Started AI & ML]
+    D --> E[Open Source Contributions]
+    E --> F[Future Software Engineer]
+```
+
+---
+
+## 🏆 Achievements & Certifications
+- **Internships:** InternPe & Codeon Technologies
+- **Goal:** Pursuing AWS, Azure, and Google Cloud Certifications
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sudharshanpoluru-oss&label=Profile%20Views&color=0e75b6&style=flat" />
-  <br/><br/>
-  <sub>Thanks for visiting my profile. Let's build something amazing together.</sub>
+  <p><i>"The best way to predict the future is to create it."</i></p>
+  <p>Thanks for visiting! Let's build something amazing together. Happy Coding!</p>
 </div>
